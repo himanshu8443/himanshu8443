@@ -16,8 +16,6 @@
 
 - 🤝 I’m looking for help with **React**
 
----
-
 ## Tech Stack
 
 Here are some of the languages and tools I work with:
