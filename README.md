@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 8man</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu8443&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu8443" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu8443&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu8443" /> </p>-->
 
 - 🤝 I’m looking for help with **React**
 
