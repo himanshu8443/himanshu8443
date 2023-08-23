@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm 8man</h1>
-<p align="center">Passionate Full-Stack Developer</p>
+
+<h1 align="center"  style="color:#eb7a34" >Hi 👋, I'm Himanshu</h1>
+<p align="center">Full-Stack Developer</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/himanshu-sangwan08" target="_blank">
@@ -15,14 +16,13 @@
 
 - 🤝 I’m looking for help with **React**
 
-
 ---
 
 ## Tech Stack
 
 Here are some of the languages and tools I work with:
 
-<p align="left">
+<p align="left" style="background-color:white">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   </a>
