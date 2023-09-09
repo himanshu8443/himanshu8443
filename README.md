@@ -15,7 +15,6 @@
 
 
 - Know about me   <a href="https://himanshuis.online/" target="_blank">Portfolio</a>
-- I’m looking for help with **React** 
 
 ## Tech Stack
 
