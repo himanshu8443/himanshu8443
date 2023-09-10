@@ -1,5 +1,5 @@
 
-<h1 align="center"  style="color:#eb7a34" >Hi 👋, I'm Himanshu</h1>
+<h1 align="center"  style="color:#eb7a34" >Hi, I'm Himanshu</h1>
 <p align="center">Full-Stack Developer</p>
 
 <p align="center">
