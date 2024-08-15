@@ -3,7 +3,7 @@ Hi I am Himanshu Sangwan
 
 * 🖥️  See my portfolio at [himanshuis.online](https://sangwan.vercel.app/)
 * ✉️  You can contact me at [sangwanhimanshu8443@gmail.com](mailto:sangwanhimanshu8443@gmail.com)
-* 🧠  I'm learning DevOps
+* 🧠  I'm working on [Vega-app](https://github.com/Zenda-Cross/vega-app)
 
 ### Skills
 
