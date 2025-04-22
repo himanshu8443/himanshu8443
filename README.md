@@ -2,8 +2,10 @@ Hi I am Himanshu Sangwan
 ========================================================================================================================================
 
 * 🖥️  See my portfolio at [himanshuis.online](https://sangwan.vercel.app/)
-* ✉️  You can contact me at [sangwanhimanshu8443@gmail.com](mailto:sangwanhimanshu8443@gmail.com)
+* ✉️  You can contact me at [mail](mailto:sangwanhimanshu8443@gmail.com)
+* 🤖  There's another me [Zenda-x](https://github.com/Zenda-Cross)
 * 🧠  I'm working on [Vega-app](https://github.com/Zenda-Cross/vega-app)
+
 
 ### Skills
 
@@ -40,4 +42,5 @@ Hi I am Himanshu Sangwan
 
 <a href="http://www.github.com/himanshu8443"><img src="https://github-readme-stats.vercel.app/api?username=himanshu8443&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="himanshu8443's GitHub stats" /></a>
 
-<a href="http://www.github.com/himanshu8443"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu8443&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- <a href="http://www.github.com/himanshu8443"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu8443&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+-->
